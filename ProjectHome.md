@@ -1,0 +1,1 @@
+Calculates Scrabble's next move
